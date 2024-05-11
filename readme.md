@@ -19,4 +19,4 @@ This repository contains the backend code for a simple calculator application wr
 ## Dependencies
 
 No additional dependencies are required to run this calculator backend. 
-The code utilizes built-in Python libraries and the Streamlit framework for the user interface."# PyCalculator" 
+The code utilizes built-in Python libraries and the Streamlit framework for the user interface. 
